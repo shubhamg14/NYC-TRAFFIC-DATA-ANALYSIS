@@ -27,4 +27,4 @@ The given command would write final statistics in HDFS location and also generat
 
 Sample command to run job
 
-    hadoop jar /usr/hdp/current/hadoop-mapreduce-client/hadoop-streaming.jar  -file /home/gupta2su/mapper.py  -mapper /home/gupta2su/mapper.py  -file /home/gupta2su/ reducer.py  -reducer /home/gupta2su/reducer.py  -input /user/tatavag/nyc.data -output cloud_hw4/mapper_output_20190423 2>> gupta_shubham_job_log.txt
+    hadoop jar /usr/hdp/current/hadoop-mapreduce-client/hadoop-streaming.jar  -file /home/gupta2su/mapper.py  -mapper /home/gupta2su/mapper.py  -file /home/gupta2su/ reducer.py  -reducer /home/gupta2su/reducer.py  -input /user/tatavag/nyc.data -output cloud_hw4/mapper_output_20190423_7 2>> gupta_shubham_job_log.txt
