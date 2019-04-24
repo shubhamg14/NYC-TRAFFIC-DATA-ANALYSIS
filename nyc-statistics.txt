@@ -1,10 +1,3 @@
-	4484762
- -74.0110059)"	1
-"	2
-"(40.6722269	1
-"r/o 1 beard st. ( ikea's	1
-"red	1
-"unk	1
 (ceme	1
 00	1
 013	1
@@ -398,7 +391,7 @@ pas	30
 pass	2
 passa	1
 passe	4
-passenger vehicle	1346657
+passenger vehicle	1346654
 pavin	1
 paylo	2
 pc	5
@@ -433,6 +426,7 @@ r/v c	1
 ram	1
 rd/s	3
 red t	2
+red,	1
 refg	9
 refri	3
 refrigerated van	202
@@ -469,7 +463,7 @@ scooter	574
 se	2
 sea	1
 seagr	1
-sedan	178642
+sedan	178643
 segwa	1
 self	20
 self-	1
@@ -480,8 +474,7 @@ shcoo	1
 skate	4
 skid	1
 small	2
-small com veh(4 tires)	11
-small com veh(4 tires) 	30972
+small com veh(4 tires)	30983
 smart	2
 snow	2
 snow plow	30
@@ -563,6 +556,7 @@ ukn	1
 ulili	1
 uliti	1
 unk	38
+unk,	1
 unkn	1
 unkno	87
 unknown	105362
@@ -596,11 +590,6 @@ vanette	6
 vang	1
 vav	1
 vc	9
-vehicle type code 1	1
-vehicle type code 2	1
-vehicle type code 3	1
-vehicle type code 4	1
-vehicle type code 5	1
 veriz	2
 vn	1390
 vol	1
